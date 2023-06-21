@@ -4,7 +4,7 @@
 
 ![](http://antzuhl.cn:4000/get/@HagiwaraMiona)
 
-![](https://visitor-badge.glitch.me/badge?page_id=HagiwaraMiona)
+![:HagiwaraMiona](https://count.getloli.com/get/@:HagiwaraMiona)
 
 ![萩原ミオナ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HagiwaraMiona&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
